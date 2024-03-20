@@ -1,3 +1,7 @@
+ amjad
+my age is 27 
+i like football
+=======
  RWA
 I'm an avid reader.
  I enjoy watching movies. 
@@ -8,5 +12,6 @@ by Maria
 =======
 Avi's 1st line.
 Avi's 2nd line.
+ main
  main
  main
