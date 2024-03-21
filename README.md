@@ -12,7 +12,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**: Fork this repository to your GitHub account and clone it to your local machine using the following command:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Roninhij/gitdemo-1.git
    ```
 
 2. **Create a Branch**: Create a new branch for yourself to work on using the following command:
